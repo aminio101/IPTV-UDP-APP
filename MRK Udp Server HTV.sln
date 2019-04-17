@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MRK Udp Server HTV", "MRK Udp Server HTV\MRK Udp Server HTV.csproj", "{48C769D5-D830-48C7-95C3-68C2F058D5DB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{48C769D5-D830-48C7-95C3-68C2F058D5DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48C769D5-D830-48C7-95C3-68C2F058D5DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48C769D5-D830-48C7-95C3-68C2F058D5DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48C769D5-D830-48C7-95C3-68C2F058D5DB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {81021A3E-DC5C-4010-A4FA-91AEA23816EA}
+	EndGlobalSection
+EndGlobal
