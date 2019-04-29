@@ -24,5 +24,6 @@ namespace MRK_Udp_Server_HTV
         public string DNS { get; set; }
         public bool registered { get; set; }
         public string MAC { get; set; }
+        public bool status { get; set; }
     }
 }
